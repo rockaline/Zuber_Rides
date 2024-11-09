@@ -30,11 +30,11 @@ Table 4) weather_records table: data about the weather
 • temperature: temperature when the recording was made
 • description: brief description of the weather conditions, e.g. "light rain" or "scattered clouds"
 
-### Step 1. Write code to analyze Chicago weather data for November 2017 from the website:
+#### Step 1. Write code to analyze Chicago weather data for November 2017 from the website:
 https://practicum-content.s3.us-west-1.amazonaws.com/data-analyst-eng/moved_chicago_weather_2017.html
-### Step 2. Exploratory Data Analysis
-### Step 3. Test the hypothesis that the duration of rides from the Loop to O'Hare International Airport changes on rainy Saturdays.
-### Step 4. Exploratory Data Analysis (Python)
+#### Step 2. Exploratory Data Analysis
+#### Step 3. Test the hypothesis that the duration of rides from the Loop to O'Hare International Airport changes on rainy Saturdays.
+#### Step 4. Exploratory Data Analysis (Python)
 
 ## Part 2) In addition to the data retrieved in the previous section, it was carried out an analysis in Python
 Dataframe 1) project_sql_result_01.csv. It contains the following data:
@@ -45,8 +45,8 @@ Dataframe 2) project_sql_result_04.csv. It contains the following data:
 • dropoff_location_name: Chicago neighborhoods where trips ended
 • average_trips: The average number of trips that ended in each neighborhood in November 2017.
 
-### Step 5. Exploratory Data Analysis
-### Step 6. Testing hypotheses (Python): "The average ride length from the Loop to O'Hare International Airport changes on rainy Saturdays."
+#### Step 5. Exploratory Data Analysis
+#### Step 6. Testing hypotheses (Python): "The average ride length from the Loop to O'Hare International Airport changes on rainy Saturdays."
 Dataframe 3) project_sql_result_07.csv 
 • start_ts — date and time the ride started
 • weather_conditions — weather conditions at the time the ride started
